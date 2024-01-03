@@ -19,6 +19,17 @@ Pull requests are welcome, as I want to learn more of FreeCAD please be nice and
 
 <a href="https://www.buymeacoffee.com/LaggAt" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" alt="Buy Me A Coffee" style="height: 60px !important;width: 217px !important;" ></a>
 
+## FreeCAD Version
+
+master uses the current 0.21.1
+
+* FreeCAD Version: https://github.com/FreeCAD/FreeCAD/releases/download/0.21.1/FreeCAD-0.21.1-WIN-x64-installer-1.exe
+
+Probably I will go forward with the RealThunder/Link version, currently experimenting in a branch:
+
+* https://github.com/LaggAt/gridfinity-freecad/tree/realthunder
+* FreeCAD RealThunder release: https://github.com/realthunder/FreeCAD/releases/tag/20231231stable
+
 ## License
 
 Gridfinity is using MIT License, so is this repository. See https://twitter.com/zackfreedman/status/1650629770156326912
