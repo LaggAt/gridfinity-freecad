@@ -21,11 +21,7 @@ Pull requests are welcome, as I want to learn more of FreeCAD please be nice and
 
 ## FreeCAD Version
 
-master uses the current 0.21.1
-
-* FreeCAD Version: https://github.com/FreeCAD/FreeCAD/releases/download/0.21.1/FreeCAD-0.21.1-WIN-x64-installer-1.exe
-
-Probably I will go forward with the RealThunder/Link version, currently experimenting in a branch:
+I'm using RealThunder/Link version, mainly for multiple solids in a part.
 
 * https://github.com/LaggAt/gridfinity-freecad/tree/realthunder
 * FreeCAD RealThunder release: https://github.com/realthunder/FreeCAD/releases/tag/20231231stable
