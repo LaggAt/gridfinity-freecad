@@ -13,6 +13,12 @@ Gridfinity is 'The modular, open-source grid storage system for your workshop' b
 
 While learning FreeCAD I started to model basic features of Gridfinity Containers for my kitchen drawer. As there is some visible progress now, I want to show it to you and request your feedback.
 
+## Progress
+
+So far we have (imho good structured) basic bins.
+
+![Freecad Screenshot](./images/freecad-editor.png)
+
 ## Help
 
 Pull requests are welcome, as I want to learn more of FreeCAD please be nice and explain your changes to me. Another Option to help would be Coffee, which I would turn into more work:
@@ -21,7 +27,7 @@ Pull requests are welcome, as I want to learn more of FreeCAD please be nice and
 
 ## FreeCAD Version
 
-I'm using RealThunder/Link version, mainly for multiple solids in a part.
+I use the RealThunder/Link version, mainly for multiple solids in one body.
 
 * https://github.com/LaggAt/gridfinity-freecad/tree/realthunder
 * FreeCAD RealThunder release: https://github.com/realthunder/FreeCAD/releases/tag/20231231stable
