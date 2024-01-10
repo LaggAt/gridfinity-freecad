@@ -17,7 +17,7 @@ While learning FreeCAD I started to model basic features of Gridfinity Container
 
 So far we have (imho good structured) basic bins.
 
-![Freecad Screenshot](images\freecad-editor.png)
+![Freecad Screenshot](./images/freecad-editor.png)
 
 ## Help
 
