@@ -1,4 +1,4 @@
 
 *.FCBak
-*.obj
+#*.obj
 *.xlsx#

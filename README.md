@@ -15,9 +15,11 @@ While learning FreeCAD I started to model basic features of Gridfinity Container
 
 ## Progress
 
-So far we have (imho good structured) basic bins.
+So far we have basic bins (light, normal and filled variant), a box opened on one side and a box for a Spoon.
 
 ![Freecad Screenshot](./images/freecad-editor.png)
+![Different Bin Sizes](./images/BinSizeExamples.png)
+![Spoon Holder](./images/SpoonBoxFilled.png)
 
 ## Help
 
@@ -30,7 +32,7 @@ Pull requests are welcome, as I want to learn more of FreeCAD please be nice and
 I use the RealThunder/Link version, mainly for multiple solids in one body.
 
 * https://github.com/LaggAt/gridfinity-freecad/tree/realthunder
-* FreeCAD RealThunder release: https://github.com/realthunder/FreeCAD/releases/tag/20231231stable
+* FreeCAD RealThunder release: https://github.com/realthunder/FreeCAD/releases/tag/20240123stable
 
 ## License
 
