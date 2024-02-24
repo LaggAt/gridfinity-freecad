@@ -17,7 +17,8 @@ While learning FreeCAD I started to model basic features of Gridfinity Container
 
 So far we have basic bins (light, normal and filled variant), a box opened on one side and a box for a Spoon.
 
-![Freecad Screenshot](./images/freecad-editor.png)
+![Freecad Screenshot](./images/FreeCADLink_UShapedPartExample.png)
+![Early Version](./images/freecad-editor.png)
 ![Different Bin Sizes](./images/BinSizeExamples.png)
 ![Spoon Holder](./images/SpoonBoxFilled.png)
 
