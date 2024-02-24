@@ -15,7 +15,7 @@ While learning FreeCAD I started to model basic features of Gridfinity Container
 
 ## Progress
 
-So far we have basic bins (light, normal and filled variant), a box opened on one side and a box for a Spoon.
+So far we have basic bins (light, normal and filled variant), boxes opening on one or two side, boxes for spoons, forks, and a box for knifes. Most things are parametric (well: if not defined in the Gridfinity standard I hope we follow 100%) and extendible. To make re-use easier, I'm asking for directions in the FreeCAD Forum here: https://forum.freecad.org/viewtopic.php?t=85557 (plz. help if you know how).
 
 ![Freecad Screenshot](./images/FreeCADLink_UShapedPartExample.png)
 ![Early Version](./images/freecad-editor.png)
